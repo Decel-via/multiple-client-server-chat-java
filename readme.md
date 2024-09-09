@@ -1,5 +1,5 @@
-# Advanced Programming Coursework | Group chat app 
-We are tasked with creating a Client and Server application that simulates a group chat.
+# Java| Group chat app 
+I am tasked with creating a Client and Server application that simulates a group chat.
 ## Table of contents
 * [Project description](#Project description)
 * [Dependencies](#Dependencies)
